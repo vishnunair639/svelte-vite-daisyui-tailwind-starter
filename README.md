@@ -1,2 +1,2 @@
-# sveltekit-starter
-Learn SveteKit
+# Starter template which integrates svelte, vite, tailwind css and daisy ui
+
