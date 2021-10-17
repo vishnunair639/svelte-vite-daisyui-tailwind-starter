@@ -1,6 +1,6 @@
 # Svelte + Vite
 
-This template should help get you started developing with Svelte in Vite with Tailwind CSS and DaisyUI integration.
+This template should help get you started developing with Svelte in Vite with Tailwind CSS and DaisyUI integration. This is based on the YT video tutorial by Mike https://www.youtube.com/watch?v=mEBPN_9jTAE
 
 ## Recommended IDE Setup
 
